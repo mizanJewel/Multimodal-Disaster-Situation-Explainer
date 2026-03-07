@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/IEEE%2FCVF-WACV%202026-1f6feb?style=for-the-badge" alt="WACV 2026" />
-  <h1>MDSE</h1>
+  <h1>Multimodal Disaster Situation Explainer (MDSE)</h1>
   <p><strong>Explaining the Unseen: Multimodal Vision-Language Reasoning for Situational Awareness in Underground Mining Disasters</strong></p>
 
   <p>
